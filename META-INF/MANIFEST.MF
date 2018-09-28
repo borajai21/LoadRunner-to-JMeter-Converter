@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ xercesImpl-2.6.2.jar
+Class-Path: .
+Rsrc-Main-Class: LR2JMeter
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
